@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AssignmentThree
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Angular-Assignment-Three
+Angular Basics: Assignment 3, Directives
+>>>>>>> 1c955b89fc3710c3be1d54404feaefed00fa1e3e
